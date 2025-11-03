@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 120000
+  },
+  {
+    "playerId": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm leg spin",
+    "biddingPrice": 950000
+  },
+  {
+    "playerId": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm off spin",
+    "biddingPrice": 850000
+  },
+  {
+    "playerId": 4,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 1100000
+  },
+  {
+    "playerId": 5,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 1000000
+  },
+  {
+    "playerId": 6,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 950000
+  },
+  {
+    "playerId": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm leg spin",
+    "biddingPrice": 900000
+  },
+  {
+    "playerId": 8,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Wicket-Keeper Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 800000
+  },
+  {
+    "playerId": 9,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Wicket-Keeper Batsman",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 850000
+  },
+  {
+    "playerId": 10,
+    "name": "Hardik Pandya",
+    "country": "India",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "All-Rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium-fast",
+    "biddingPrice": 950000
+  },
+  {
+    "playerId": 11,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "All-Rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm orthodox",
+    "biddingPrice": 900000
+  },
+  {
+    "playerId": 12,
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "image": "https://www.wisden.com/static-assets/images/players/3993.png?v=23.77",
+    "role": "Batsman",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Right-arm off spin",
+    "biddingPrice": 1000000
+  }
+]
